@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gitjobs/static/js/main.655b024d.chunk.js",
-    "main.js.map": "/gitjobs/static/js/main.655b024d.chunk.js.map",
+    "main.js": "/gitjobs/static/js/main.f45ec923.chunk.js",
+    "main.js.map": "/gitjobs/static/js/main.f45ec923.chunk.js.map",
     "runtime-main.js": "/gitjobs/static/js/runtime-main.be4bc758.js",
     "runtime-main.js.map": "/gitjobs/static/js/runtime-main.be4bc758.js.map",
     "static/js/2.3ba79429.chunk.js": "/gitjobs/static/js/2.3ba79429.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.be4bc758.js",
     "static/js/2.3ba79429.chunk.js",
-    "static/js/main.655b024d.chunk.js"
+    "static/js/main.f45ec923.chunk.js"
   ]
 }
